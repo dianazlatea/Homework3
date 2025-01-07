@@ -1,0 +1,14 @@
+C:\Users\diana\Documents\GitHub\Homework3\Homework3\obj\Debug\net9.0\Homework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\Documents\GitHub\Homework3\Homework3\obj\Debug\net9.0\Homework3.AssemblyInfoInputs.cache
+C:\Users\diana\Documents\GitHub\Homework3\Homework3\obj\Debug\net9.0\Homework3.AssemblyInfo.cs
+C:\Users\diana\Documents\GitHub\Homework3\Homework3\obj\Debug\net9.0\Homework3.csproj.CoreCompileInputs.cache
+C:\Users\diana\Documents\GitHub\Homework3\Homework3\bin\Debug\net9.0\Homework3.exe
+C:\Users\diana\Documents\GitHub\Homework3\Homework3\bin\Debug\net9.0\Homework3.deps.json
+C:\Users\diana\Documents\GitHub\Homework3\Homework3\bin\Debug\net9.0\Homework3.runtimeconfig.json
+C:\Users\diana\Documents\GitHub\Homework3\Homework3\bin\Debug\net9.0\Homework3.dll
+C:\Users\diana\Documents\GitHub\Homework3\Homework3\bin\Debug\net9.0\Homework3.pdb
+C:\Users\diana\Documents\GitHub\Homework3\Homework3\obj\Debug\net9.0\Homework3.dll
+C:\Users\diana\Documents\GitHub\Homework3\Homework3\obj\Debug\net9.0\refint\Homework3.dll
+C:\Users\diana\Documents\GitHub\Homework3\Homework3\obj\Debug\net9.0\Homework3.pdb
+C:\Users\diana\Documents\GitHub\Homework3\Homework3\obj\Debug\net9.0\Homework3.genruntimeconfig.cache
+C:\Users\diana\Documents\GitHub\Homework3\Homework3\obj\Debug\net9.0\ref\Homework3.dll

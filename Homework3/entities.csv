@@ -1,0 +1,8 @@
+ID,Name,Email,Phone
+101,Marcu Ioana,marcuioana@gmail.com,0748651523
+ID,Name,Department,Salary
+201,Sarafie Dan,Web Developer,9000
+ProductID,ProductName,Price
+301,IT Consulting,500
+OrderID,OrderDate,Products
+401,2024/12/31,[ID=301,Name=IT Consulting,Price=500]
